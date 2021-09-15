@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant8787" alt="prashant8787" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working in IIST **Student Information technology 2nd year**
+- ðŸ”­ Iâ€™m currently working in IIST **As a Student in Information technology branch , 2nd year**
 
 - ðŸŒ± Iâ€™m currently learning **C,C++,Java, JavaScript**
 
